@@ -21,6 +21,9 @@ The goal of this project was to identify the genetic source preventing the effec
 
 * I used a simple chi-square test to scan the 1.8Gb genome for regions that deviate from expected Mendelian segregation ratios (those that have unfavorable gene combinations) and see if these regions contain genes associated with wild traits of interest. 
 
-* To infer genetic mechanisms related to inviability, I needed to understand gene functions associated with these regions. We used a customized python script to extract gene sequences that were translated into protein sequences. Because the gene functions are not well annotated in the oil palm genome, I implemented BLAST sequence alignment tool to infer gene function based on sequence similarities of a functionally well annotated plant genome (e.g., Arabidopsis). 
+* To infer genetic mechanisms related to inviability, I needed to understand functions of the genes. We used a customized python script to extract gene sequences that were then translated into protein sequences. Because the gene functions are not well annotated in the oil palm genome, I implemented BLAST sequence alignment tool to infer gene function based on sequence similarities of a functionally well annotated plant genome (e.g., Arabidopsis). 
 
-
+### Results
+* Identified several large genomic regions of unfavorable gene combinations in hybrid populations (i.e., gene frequencies that deviate from mendalian segregation ratios) and found that genes significantly associated with wild traits of interests are located within these regions.
+* Regions of unfavorable gene combinations harbor genes responsible for pollen viability and other reproductive traits, suggesting that genes associated with wild traits of interest may be linked to genes that cause reproductive abnormalities in hybrids thus preventing the expression of these traits.
+* Results were experimentally validated and provided new innovative insights towards developing molecular gene editing techniques to improve inter-species hybrid breeding. 
