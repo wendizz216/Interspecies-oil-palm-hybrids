@@ -39,7 +39,7 @@ def group_by_heading(some_source):
     '''
     buffer = []
     for line in some_source:
-        if re.match('^>', line):
+        if re.match('>', line):
             if buffer: yield buffer
             buffer= [ line ]
         else:
