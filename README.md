@@ -15,7 +15,7 @@ Oil palm cultivars are highly susceptible to a number of diseases. The potential
 ### METHODS
 * Chi-squared test (custom Python script)
 * Functional characterization of genes
-  * Protein coding gene sequence extraction from genome (custom Python script)
+  * Protein coding gene sequence extraction from genome (extract_gene_seq.py)
   * Translate gene sequences to protein sequences
     - Download EMBOSS command-line tool [here](http://emboss.sourceforge.net/download/)
     - command: transeq eg9_concatenated_cds.fasta eg9_concatenated_cds.pep -trim Y
