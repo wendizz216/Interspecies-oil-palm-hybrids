@@ -9,13 +9,13 @@ Oil palm cultivars are highly susceptible to a number of diseases. The potential
 
 ### DATA SETS
 * Genetic variation sequencing data (samples size = 228)
-* Whole genome sequence
-  * Download files from [here](https://www.dropbox.com/sh/hmzssojdk0m4qi7/AACzlYJK3cD1m6K8IeOSzsJ2a?dl=0)
+* Oil Palm reference genome sequence
 
 ### METHODS
-* Chi-squared test (custom Python script)
+* Chi-squared test (custom script: chisquared_test.py)
 * Functional characterization of genes
   * Protein coding gene sequence extraction from genome (extract_gene_seq.py)
+    - Download input/output files from [here](https://www.dropbox.com/sh/hmzssojdk0m4qi7/AACzlYJK3cD1m6K8IeOSzsJ2a?dl=0)
   * Translate gene sequences to protein sequences
     - Download EMBOSS command-line tool [here](http://emboss.sourceforge.net/download/)
     - command-line function: <input> transeq eg9_cds_genes.fasta eg9_proteins.pep -trim Y
