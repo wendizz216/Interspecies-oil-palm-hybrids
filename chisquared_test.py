@@ -290,8 +290,7 @@ def main(args):
 	header=np.reshape(np.array(("IDX","CHR_MOD","CHROM","POS","N","DF","Crit_Val","ChiSq_val","Pval", 'Parental1_genotype', 'Parent2_genotype', "EXP_Counts", "OBS_Counts" )),(1,13))
 
 	fin = np.vstack((header,chisq_stats))
-	s = '%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s'
-
+	s = '%s\t%s\t'*6 + '%s'
 	np.savetxt(args[5],fin,fmt=s)
 
 
