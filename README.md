@@ -8,10 +8,9 @@ Oil palm cultivars are highly susceptible to a number of diseases. The potential
 [Malaysian Oil Palm Board](http://www.mpob.gov.my/)
 
 ### DATA SETS
-* Whole genome sequencing data (N=228)
-* Gene sequences
+* Genetic variation sequencing data (samples size = 228)
+* Whole genome sequence
   * Download files from [here](https://www.dropbox.com/sh/hmzssojdk0m4qi7/AACzlYJK3cD1m6K8IeOSzsJ2a?dl=0)
-
 
 ### METHODS
 * Chi-squared test (custom Python script)
