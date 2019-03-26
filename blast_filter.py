@@ -1,3 +1,5 @@
+# !/usr/bin/env python
+
 #This script filters the best blast hits from BLASTP alignment output: mapped protein sequences have >90% sequence aligned. Then identify gene functions from Arabidopsis functional annotations.
 
 import pandas as pd
