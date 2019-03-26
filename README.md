@@ -14,14 +14,15 @@ Oil palm cultivars are highly susceptible to a number of diseases. The potential
 ### METHODS
 * Chi-squared test (custom script: chisquared_test.py)
 * Functional characterization of genes
-  * Protein coding gene sequence extraction from genome (extract_gene_seq.py)
+  * Protein coding gene sequence extraction from genome (custom script: extract_gene_seq.py)
     - Download input/output files from [here](https://www.dropbox.com/sh/hmzssojdk0m4qi7/AACzlYJK3cD1m6K8IeOSzsJ2a?dl=0)
   * Translate gene sequences to protein sequences
     - Download EMBOSS command-line tool [here](http://emboss.sourceforge.net/download/)
     - command-line function: <input> transeq eg9_cds_genes.fasta eg9_proteins.pep -trim Y
   * Genomic sequence alignments ([BLAST sequence alignment tool](https://blast.ncbi.nlm.nih.gov/Blast.cgi))
     - To run BLAST, you can download command-line tool [here](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download)
-    - Filter BLAST results to extract reliable sequence results (custom Python script)
+    - Map oil palm protein sequences to a functionally well annotated plant genome (i.e. Arabidopsis).
+    - Filter BLAST results to extract reliable sequence results (custom Python script: blast_filter.py)
 * Data visualization (R, ggplot)
 
 ### PROJECT DESCRIPTION
