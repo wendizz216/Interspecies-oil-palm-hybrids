@@ -42,9 +42,5 @@ We hypothesize that genes associated with traits that under-represented in the h
 
 * Regions of unfavorable gene combinations harbor genes responsible for pollen viability/sterility and other reproductive traits, suggesting that genes associated with wild traits of interest may be linked to genes that cause reproductive abnormalities in hybrids thus are not represented in the hybrid populations. 
 
-  - The figure below is a manhattan plot from a genome-wide association analysis (associating genes to traits) for disease resistance, oil quality, fruit color and oil yield. Sharp peaks above the blue significance line correspond to regions that harbor genes significantly associated with the respective traits. The green dots correspond to regions that harbor unfavorable genes. The red line indicate the location of genes responsible for reproductive viability/sterility.
+  - The figure below are manhattan plots from a genome-wide association analysis (associating genes to traits) for disease resistance, oil quality, fruit color and oil yield. Sharp peaks above the blue significance line correspond to regions that harbor genes significantly associated with the respective traits. The green dots correspond to regions that harbor unfavorable genes. The red line indicate the location of genes responsible for reproductive viability/sterility. Figures A) and B) are traits that are not expressed in hybrids. In contrast, figures C) and D) are traits that are expressed in hybrids. 
 ![](Figures_Scripts/ManhattanPlots.png)
-
-
-
-
