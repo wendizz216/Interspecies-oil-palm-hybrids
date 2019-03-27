@@ -35,6 +35,8 @@ We hypothesize that genes associated with traits that under-represented in the h
 ### RESULTS
 * Identified several large genomic regions of unfavorable gene combinations in hybrid populations and found that genes significantly associated with wild traits of interests are located within these regions.
 
+[](Figures_Scripts/Karyotype.png)
+
 * Regions of unfavorable gene combinations harbor genes responsible for pollen viability/sterility and other reproductive traits, suggesting that genes associated with wild traits of interest may be linked to genes that cause reproductive abnormalities in hybrids thus are not represented in the hybrid populations.
 
 * Results were experimentally validated and provided new innovative insights towards developing molecular gene editing techniques to improve inter-species hybrid breeding. 
