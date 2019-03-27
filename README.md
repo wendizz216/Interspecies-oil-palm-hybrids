@@ -43,6 +43,6 @@ This figure represents the hybrid chromosomes with annotated genetic regions tha
 
 The figure below is a manhattan plot from a genome-wide association analysis (associating genes to traits) for disease resistance, oil quality, fruit color and oil yield. Sharp peaks above the blue significance line correspond to regions that harbor genes significantly associated with the respective traits. The green dots correspond to regions that harbor unfavorable genes. The red line indicate the location of genes responsible for reproductive viability/sterility.
 
-![](ManhattanPlots.jng)
+![](Figures_Scripts/ManhattanPlots.jng)
 
 * Results were experimentally validated and provided new innovative insights towards developing molecular gene editing techniques to improve inter-species hybrid breeding. 
