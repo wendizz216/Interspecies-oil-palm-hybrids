@@ -33,9 +33,11 @@ We hypothesize that genes associated with traits that under-represented in the h
 * Because the gene functions were not well annotated in the oil palm genome, I wasn't able to infer potential genetic mechanisms. To get around this issue, I mapped oil palm protein sequences onto a functionally well annotated plant genome (e.g., Arabidopsis) and inferred gene functions based on sequence similarities. I used a customized python script to extract gene sequences that were then translated into protein sequences and implemented BLAST sequence alignment tools to infer oil palm gene functions. 
 
 ### RESULTS
+* Results were experimentally validated and provided new innovative insights towards developing molecular gene editing techniques to improve inter-species hybrid breeding. 
+
 * Identified several large genomic regions of unfavorable gene combinations in hybrid populations and found that genes significantly associated with wild traits of interests are located within these regions. The figure below is a karyogram of an example hybrid population. 
 
-*This figure represents the hybrid chromosomes with annotated genetic regions that correspond to wild (green), cultivated (pink) and regions that harbor unfavorable genes (blue). 
+ - This figure represents the hybrid chromosomes with annotated genetic regions that correspond to wild (green), cultivated (pink) and regions that harbor unfavorable genes (blue). 
 ![](Figures_Scripts/Karyotype.png)
 
 * Regions of unfavorable gene combinations harbor genes responsible for pollen viability/sterility and other reproductive traits, suggesting that genes associated with wild traits of interest may be linked to genes that cause reproductive abnormalities in hybrids thus are not represented in the hybrid populations. 
@@ -43,6 +45,6 @@ We hypothesize that genes associated with traits that under-represented in the h
   - The figure below is a manhattan plot from a genome-wide association analysis (associating genes to traits) for disease resistance, oil quality, fruit color and oil yield. Sharp peaks above the blue significance line correspond to regions that harbor genes significantly associated with the respective traits. The green dots correspond to regions that harbor unfavorable genes. The red line indicate the location of genes responsible for reproductive viability/sterility.
 ![](Figures_Scripts/ManhattanPlots.png)
 
-* Results were experimentally validated and provided new innovative insights towards developing molecular gene editing techniques to improve inter-species hybrid breeding. 
+
 
 
