@@ -39,8 +39,8 @@ We hypothesize that genes associated with traits that under-represented in the h
 
   - This figure represents the hybrid chromosomes with annotated genetic regions that correspond to wild (green), cultivated (pink) and regions that harbor unfavorable genes (blue). 
 
-![](Figures_Scripts/Karyotype.png)
-![]<img src="Figures_Scripts/Karyotype.png" width="500" height="500">
+#![](Figures_Scripts/Karyotype.png)
+<img src="Figures_Scripts/Karyotype.png" width="500" height="500">
 
 * Regions of unfavorable gene combinations harbor genes responsible for pollen viability/sterility and other reproductive traits, suggesting that genes associated with wild traits of interest may be linked to genes that cause reproductive abnormalities in hybrids thus are not represented in the hybrid populations. 
 
