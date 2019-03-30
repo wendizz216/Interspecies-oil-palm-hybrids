@@ -46,3 +46,4 @@ We hypothesize that genes associated with traits that are under-represented in t
   - The figure below are manhattan plots from a genome-wide association analysis (associating genes to traits) for disease resistance, oil quality, fruit color and oil yield. Sharp peaks above the blue significance line correspond to regions that harbor genes significantly associated with the respective traits. The green dots correspond to regions that harbor unfavorable genes. The red line indicate the location of genes responsible for reproductive viability/sterility. Figures A) and B) are traits that are not expressed in hybrids. In contrast, figures C) and D) are traits that are expressed in hybrids. [ManhattanPlots.R](Interspecies-oil-palm-hybrids/Figures_Scripts/ManhattanPlots.R)
 
 <img src="Figures_Scripts/ManhattanPlots.png" width="600" height="600">
+
