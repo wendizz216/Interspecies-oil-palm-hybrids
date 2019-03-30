@@ -37,7 +37,7 @@ We hypothesize that genes associated with traits that are under-represented in t
 
 * Identified several large genomic regions of unfavorable gene combinations in hybrid populations and found that genes significantly associated with wild traits of interests are located within these regions. The figure below is a karyogram of an example hybrid population. 
 
-  - This figure represents hybrid chromosomes with genetic regions that correspond to regions that harbor wild (green), cultivated (pink) and unfavorable genes (blue). 
+  - This figure represents hybrid chromosomes with genetic regions that correspond to regions that harbor wild (green), cultivated (pink) and unfavorable genes (blue). [Karyogram_BC2b_PollenValidation_Genotype_Rscript.R](Interspecies-oil-palm-hybrids/Figures_Scripts/Karyogram_BC2b_PollenValidation_Genotype_Rscript.R)
 
 <img src="Figures_Scripts/Karyotype.png" width="600" height="600">
 
